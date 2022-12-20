@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-ExtraLight.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+ #div1 {
+    width: 400px;
+    height: 900px;
+    background-color: #2F80ED;
+    float: left;
+}
+
+#div2 {
+    width: 1440px;
+    height: 900px;
+    padding:20px;
+    background-color:#FFFFFF;
+    float:left
+}
+
+#signup {
+    position: absolute;
+    width: 300px;
+    height: 60px;
+    left: 44px;
+    top: 249px;;
+    background-color: #4F4F4F;
+}
+
+#login {
+    position: absolute;
+    width: 300px;
+    height: 60px;
+    left: 44px;
+    top: 339px;
+    background-color: #4F4F4F;
+}
+
+#stats {
+    position: absolute;
+    width: 951px;
+    height: 607px;
+    left: 422px;
+    top: 167px;
+}
+
+#Atext {
+    position: absolute;
+    width: 561px;
+    height: 108px;
+    left: 897px;
+    top: 52px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 54px;
+    color: #4F4F4F;
+}
+
+#otext {
+    position: absolute;
+    width: 561px;
+    height: 108px;
+    left: 475px;
+    top: 734px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 54px;
+}
+
+#simple {
+    position: absolute;
+    width: 208px;
+    height: 36px;
+    left: 98px;
+    top: 64px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    color: white;
+}
+
+#img1 {
+    position: absolute;
+    left: 60.17px;
+    top: 70px;;
+    height: 20.55px;
+    width: 31.67px;
+    background: #2F80ED;
+}
+
